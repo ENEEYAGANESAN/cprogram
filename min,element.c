@@ -18,3 +18,4 @@ location=c+1;
 }
 printf("min element in the location is %d and the value is %d",location,min);
 return 0;
+}
