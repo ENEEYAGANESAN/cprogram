@@ -2,7 +2,7 @@
 #include<string.h>
 int main()
 {
-	char a[100]="hai123";
+	char a[100]="hai1234567";
 	 int i,count=0;
 	for(i=0;a[i]!='\0';i++)
 	{
