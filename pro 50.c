@@ -2,11 +2,11 @@
 #include<conio.h>
 int main()
 {
-  int a,b,long long n=1;
+  int a,b,n=1;
   printf("enter value a");
   scanf("%d",&a);
   printf("enter value b");
-  scanf("%d",&b");
+  scanf("%d",&b);
   while(b!=0)
         {
           n*=a;
