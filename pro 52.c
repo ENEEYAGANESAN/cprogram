@@ -7,11 +7,14 @@ scanf("%d",&a);
 switch(a)
 {
 case 0:
-printf("one");
+printf("zero");
+break;
 case 1:
-printf("two");
+printf("one");
+break;
 case 2:
-printf("three");
+printf("two");
+break;
 }
 return 0;
 }
