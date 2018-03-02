@@ -1,14 +1,12 @@
 #include<stdio.h>
-#include<conio.h>
+//#include<conio.h>
 int main()
 {
-char a[100];
-int i;
-printf("enter the string");
-scanf("%s",a);
-for(i=0;i<3;i++)
-{
-printf("%c",a[i]);
+    int c;
+    for(c=1;c<=3;c++)
+    {
+        printf("eniya\n");
+    }
+    return 0;
 }
-return 0;
-}
+
